@@ -1,0 +1,36 @@
+		<!-- our testimonial  start-->
+	<!-- <section class="testimonial">
+		<div class="container">
+			<div class="common_heading">
+				<h3>Testimonial <span></span></h3>
+			</div>			
+			<div class="row">
+				<div class="col-md-6 service-item">
+					<div class="services-icon">
+						<div class="img">
+							<img src="images/Icon.png" alt="">
+						</div>					
+					</div>
+					<div class="services-content">
+						<h4>Graphic Design</h4>
+						<p>Lorem ipsum dolor sit amet, consectetpisg elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+					</div>
+				</div>
+				<div class="col-md-6 service-item">
+					<div class="services-icon">
+						<div class="img">
+							<img src="images/Icon2.png" alt="">
+						</div>					
+					</div>
+					<div class="services-content">
+						<h4>Graphic Design</h4>
+						<p>Lorem ipsum dolor sit amet, consectetpisg elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+					</div>
+				</div>				
+			</div>
+		</div>
+	</section> -->
+	<!-- our testimonial end -->
+
+
+<!-- our testimonial css -->
